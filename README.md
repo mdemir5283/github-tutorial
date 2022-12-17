@@ -1,1 +1,1 @@
-# gitub-tutorial
+# github-tutorial
